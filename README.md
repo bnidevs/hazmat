@@ -1,2 +1,3 @@
 # hazmat
+
 Discord Safety Bot
